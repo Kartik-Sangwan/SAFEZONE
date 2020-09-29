@@ -1,4 +1,4 @@
-# team07
+# SAFE-ZONE
 
 Deployed App: https://peaceful-bayou-44052.herokuapp.com/
 
