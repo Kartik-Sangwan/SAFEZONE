@@ -1,0 +1,21 @@
+#homes {
+    overflow: auto;
+    display: block;
+}
+
+.posts{
+    /* min-height: 650px; */
+    min-width: 95%;
+    display: inline-block;
+}
+
+#homes h1{
+    margin-left: 5%;
+    border-bottom: 3px dotted grey;
+    width: 30%;
+}
+
+.map {
+    /* width: 95%; */
+    margin-left: 5%;
+}
