@@ -1,5 +1,4 @@
 # team07
-# Contributors: Kartik-Sangwan, Tiffany-Ng, gurumur2, mad120 (Github Usernames)
 
 Deployed App: https://peaceful-bayou-44052.herokuapp.com/
 
@@ -290,3 +289,6 @@ The admin will be provided with an admin panel which provides him the ability to
 * GET /users/userTwitterFeed
   * Get all tweeter messages
   * Expected output: all tweets
+
+
+# Contributors: Kartik-Sangwan, Tiffany-Ng, gurumur2, mad120 (Github Usernames)
