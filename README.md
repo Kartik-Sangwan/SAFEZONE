@@ -1,4 +1,5 @@
 # team07
+# Contributors: Kartik-Sangwan, Tiffany-Ng, gurumur2, mad120 (Github Usernames)
 
 Deployed App: https://peaceful-bayou-44052.herokuapp.com/
 
